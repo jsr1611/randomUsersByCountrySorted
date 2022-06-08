@@ -1,7 +1,7 @@
 package com.example.demo.service;
 
-import com.example.demo.dto.Response;
 import com.example.demo.dto.User;
+import com.example.demo.dto.response.Response;
 import com.google.gson.Gson;
 import org.springframework.stereotype.Service;
 
