@@ -1,5 +1,7 @@
-package com.example.demo.dto;
+package com.example.demo.dto.response;
 
+import com.example.demo.dto.Info;
+import com.example.demo.dto.User;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
