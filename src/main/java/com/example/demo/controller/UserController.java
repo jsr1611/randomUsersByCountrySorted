@@ -17,7 +17,7 @@ import java.util.*;
 public class UserController {
 
     private final UserService service;
-    public UserController(final UserServiceImpl service){
+    public UserController(final UserService service){
         this.service = service;
     }
     @GetMapping("/usersByCountry")
